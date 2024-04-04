@@ -2,13 +2,13 @@
  * @Author: LiuXueChao
  * @Date: 2024-04-03 16:35:55
  * @LastEditors: your name
- * @LastEditTime: 2024-04-05 02:57:50
+ * @LastEditTime: 2024-04-05 07:23:14
  * @Description: file content
 -->
 <script setup lang="ts">
 import HelloWorld from "./components/HelloWorld.vue";
 console.log("在App.vue中增加czg的测试");
-console.log("xxxxxx");
+console.log("xxxxxx！！！！");
 </script>
 
 <template>
